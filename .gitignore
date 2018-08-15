@@ -1,5 +1,5 @@
 #Proteus Temporary/Generated Files
-.workspace
-.pdsbak
-.PDF
-.ZIP
+*.workspace
+*.pdsbak
+*.PDF
+*.ZIP
