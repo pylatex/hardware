@@ -6,4 +6,4 @@ The main boards are [nucleo](nucleo) and [the first shield](shield01). *Breakout
 
 ## Contributing Guidelines
 
-Please create a pull request for every PCB you want to add/improve. As is it right now, every PCB must have their own folder. The .gitignore file currently has setup for Proteus, but can be extended to other EDA software.
+Please create a pull/merge request for every single PCB you want to add/improve. As is it right now, every PCB must have their own folder. The .gitignore file currently has setup for Proteus, but can be extended to other EDA software.
