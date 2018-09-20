@@ -3,3 +3,8 @@
 *.pdsbak
 *.PDF
 *.ZIP
+*.DO
+*.EDF
+*.log
+*.rte
+*.sts
